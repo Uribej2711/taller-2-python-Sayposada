@@ -1,4 +1,5 @@
 class Auto:
+    
     cantidadCreados = 0
     
     def __init__ (self, modelo, precio, asientos, marca, motor, registro):
