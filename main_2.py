@@ -1,5 +1,4 @@
 class Auto:
-    
     cantidadCreados = 0
     
     def _init_ (self, modelo, precio, asientos, marca, motor, registro):
